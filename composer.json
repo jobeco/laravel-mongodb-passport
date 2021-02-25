@@ -15,7 +15,7 @@
     "require": {
         "php": ">=7.1",
         "laravel/framework": "^7.29",
-        "jenssegers/mongodb": "3.3.* || 3.4.* || 3.5.* || 3.6.* || 3.7.* || 3.7.x-dev || 3.8.* || 4.*",
+        "jenssegers/mongodb": "3.3.* || 3.4.* || 3.5.* || 3.6.* || 3.7.* || 3.7.x-dev || 3.8.* || 4.* || dev-develop",
         "laravel/passport": "6.0.* || 7.0.* || 7.4.* || 7.5.* || 8.* || 9.*"
     },
     "autoload": {
